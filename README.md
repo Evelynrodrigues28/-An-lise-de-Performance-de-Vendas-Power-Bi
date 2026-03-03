@@ -62,5 +62,5 @@ Imagem do dashboard:
 
 
 ## Acesso ao Dashboard Interativo
-[Link para visualizar o dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzQ3OWRiYzgtZGM0ZS00NDI0LTgxMDctZmVmNGNhOWUwNDkwIiwidCI6IjA4YjAwZjFjLWM2ZDQtNDk0ZC05OGMwLTZlMTc1M2RkMDlkMCJ9)
+[Link para visualizar o dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWM5N2YzMWMtZjRkYy00MTE0LTk1ODgtM2M4YzhiODU0Y2QyIiwidCI6IjA4YjAwZjFjLWM2ZDQtNDk0ZC05OGMwLTZlMTc1M2RkMDlkMCJ9)
 
