@@ -55,7 +55,8 @@ O dashboard apresenta as seguintes análises:
 ## Dashboard
 Imagem do dashboard:
 
-<img width="1331" height="745" alt="image" src="https://github.com/user-attachments/assets/4e9aacf9-ed71-428e-bb1d-18b7612d18c8" />
+<<img width="1332" height="742" alt="image" src="https://github.com/user-attachments/assets/762cc07d-906b-4427-9907-0f03c1856501" />
+
 
 
 ## Acesso ao Dashboard Interativo
