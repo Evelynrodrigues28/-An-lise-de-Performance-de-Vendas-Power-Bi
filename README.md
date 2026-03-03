@@ -59,5 +59,5 @@ Imagem do dashboard:
 
 
 ## Acesso ao Dashboard Interativo
-[Link para visualizar o dashboard](https://app.powerbi.com/reportEmbed?reportId=40b6037b-e0c8-4a4c-98be-ff73a1615778&autoAuth=true&ctid=08b00f1c-c6d4-494d-98c0-6e1753dd09d0)
+[Link para visualizar o dashboard] <iframe title="Análise Performance de Vendas" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzQ3OWRiYzgtZGM0ZS00NDI0LTgxMDctZmVmNGNhOWUwNDkwIiwidCI6IjA4YjAwZjFjLWM2ZDQtNDk0ZC05OGMwLTZlMTc1M2RkMDlkMCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
