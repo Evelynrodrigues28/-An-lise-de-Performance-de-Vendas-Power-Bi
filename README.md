@@ -55,7 +55,8 @@ O dashboard apresenta as seguintes análises:
 ## Dashboard
 Imagem do dashboard:
 
-<img width="1327" height="743" alt="image" src="https://github.com/user-attachments/assets/6084bfb3-7e09-43e9-be19-01285f0d4baf" />
+<img width="1331" height="745" alt="image" src="https://github.com/user-attachments/assets/4e9aacf9-ed71-428e-bb1d-18b7612d18c8" />
+
 
 ## Acesso ao Dashboard Interativo
 [Link para visualizar o dashboard](https://app.powerbi.com/reportEmbed?reportId=40b6037b-e0c8-4a4c-98be-ff73a1615778&autoAuth=true&ctid=08b00f1c-c6d4-494d-98c0-6e1753dd09d0)
