@@ -58,5 +58,5 @@ Imagem do dashboard:
 <img width="1327" height="743" alt="image" src="https://github.com/user-attachments/assets/6084bfb3-7e09-43e9-be19-01285f0d4baf" />
 
 ## Acesso ao Dashboard Interativo
-[Link para visualizar o dashboard](COLE_SEU_LINK_AQUI)
+[Link para visualizar o dashboard](<iframe title="Análise Performance de Vendas" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=40b6037b-e0c8-4a4c-98be-ff73a1615778&autoAuth=true&ctid=08b00f1c-c6d4-494d-98c0-6e1753dd09d0" frameborder="0" allowFullScreen="true"></iframe>)
 
