@@ -51,6 +51,7 @@ O dashboard apresenta as seguintes análises:
 
 ##  Ferramentas Utilizadas
 - Power BI
+- Excel
 
 ## Dashboard
 Imagem do dashboard:
